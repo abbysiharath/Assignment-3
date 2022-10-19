@@ -262,4 +262,9 @@ a:hover {
     padding-bottom: 10%;
 }
 
-
+a {
+    text-decoration: none;
+    margin: 5px;
+    transition: 0.5s ease-out;
+    color: white;
+}
